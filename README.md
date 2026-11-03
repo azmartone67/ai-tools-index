@@ -4,7 +4,7 @@ A maintained index of the AI tools developers actually use: coding agents, app b
 
 Unlike most lists, every entry is structured data. Stars, last activity and license are refreshed from GitHub nightly, and archived or inactive projects are flagged automatically instead of rotting in place. Each tool gets a permanent dex number, Pokédex-style, that never changes or gets reused.
 
-**107 tools** · updated 2026-11-02 · [contribute](CONTRIBUTING.md)
+**107 tools** · updated 2026-11-03 · [contribute](CONTRIBUTING.md)
 
 ☁️ hosted service (everything else installs and runs on your machine) · 🆕 added in the last 30 days · 💤 no commits in 180 days · 🗄️ archived on GitHub
 
@@ -46,15 +46,15 @@ Agents that read, write and run code in your repository.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #004 | [opencode](https://opencode.ai) | Open-source terminal coding agent that works with many model providers. | MIT | [★ 224k](https://github.com/anomalyco/opencode) | today |
-| #001 | [Claude Code](https://www.anthropic.com/claude-code) | Anthropic's agentic coding CLI; also runs in IDEs and the desktop app. | Proprietary | [★ 154.3k](https://github.com/anthropics/claude-code) | today |
-| #002 | [Codex CLI](https://developers.openai.com/codex) | OpenAI's open-source coding agent for the terminal. | Apache-2.0 | [★ 132.9k](https://github.com/openai/codex) | today |
+| #004 | [opencode](https://opencode.ai) | Open-source terminal coding agent that works with many model providers. | MIT | [★ 224.3k](https://github.com/anomalyco/opencode) | today |
+| #001 | [Claude Code](https://www.anthropic.com/claude-code) | Anthropic's agentic coding CLI; also runs in IDEs and the desktop app. | Proprietary | [★ 154.4k](https://github.com/anthropics/claude-code) | today |
+| #002 | [Codex CLI](https://developers.openai.com/codex) | OpenAI's open-source coding agent for the terminal. | Apache-2.0 | [★ 133k](https://github.com/openai/codex) | today |
 | #003 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's open-source agent that brings Gemini models to the terminal. | Apache-2.0 | [★ 108.7k](https://github.com/google-gemini/gemini-cli) | today |
 | #073 | [Warp](https://www.warp.dev) | Terminal-based development environment with built-in coding agents. | AGPL-3.0 | [★ 65.8k](https://github.com/warpdotdev/warp) | today |
-| #008 | [Goose](https://github.com/aaif-goose/goose) | Extensible open-source agent with a CLI and desktop app, built on MCP. | Apache-2.0 | [★ 56.1k](https://github.com/aaif-goose/goose) | today |
+| #008 | [Goose](https://github.com/aaif-goose/goose) | Extensible open-source agent with a CLI and desktop app, built on MCP. | Apache-2.0 | [★ 56.2k](https://github.com/aaif-goose/goose) | today |
 | #005 | [Aider](https://aider.chat) | Pair programming in the terminal with git-native edits and commits. | Apache-2.0 | [★ 49.9k](https://github.com/Aider-AI/aider) | 5mo ago |
-| #006 | [Crush](https://github.com/charmbracelet/crush) | Charm's terminal coding agent with multi-model and LSP support. | FSL-1.1-MIT | [★ 28.9k](https://github.com/charmbracelet/crush) | today |
 | #007 | [Qwen Code](https://github.com/QwenLM/qwen-code) | Terminal agent tuned for Qwen coder models, forked from Gemini CLI. | Apache-2.0 | [★ 28.9k](https://github.com/QwenLM/qwen-code) | today |
+| #006 | [Crush](https://github.com/charmbracelet/crush) | Charm's terminal coding agent with multi-model and LSP support. | FSL-1.1-MIT | [★ 28.9k](https://github.com/charmbracelet/crush) | today |
 | #071 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | GitHub's Copilot coding agent in the terminal. | Proprietary | [★ 11.3k](https://github.com/github/copilot-cli) | today |
 | #009 | [Amp](https://ampcode.com) | Sourcegraph's coding agent for the terminal and editors. | Closed source | — | — |
 | #072 | [Factory](https://factory.com/) | Runs coding agents called Droids from the terminal, IDE and CI. | Closed source | — | — |
@@ -64,7 +64,7 @@ Agents that read, write and run code in your repository.
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
 | #016 | [Zed](https://zed.dev) | High-performance editor written in Rust with a built-in agent panel. | GPL-3.0 / Apache-2.0 | [★ 92.6k](https://github.com/zed-industries/zed) | today |
-| #012 | [Cline](https://cline.bot) | Open-source autonomous coding agent as a VS Code extension. | Apache-2.0 | [★ 71.2k](https://github.com/cline/cline) | today |
+| #012 | [Cline](https://cline.bot) | Open-source autonomous coding agent as a VS Code extension. | Apache-2.0 | [★ 71.3k](https://github.com/cline/cline) | today |
 | #015 | [Continue](https://continue.dev) | Open-source agents and checks for IDEs and CI. | Apache-2.0 | [★ 36.4k](https://github.com/continuedev/continue) | today |
 | #076 | [Tabby](https://www.tabbyml.com) | Self-hosted, open-source alternative to GitHub Copilot. | Apache-2.0 + enterprise | [★ 33.9k](https://github.com/TabbyML/tabby) | 4mo ago |
 | #013 | [Kilo Code](https://kilocode.ai) | Open-source agent extension for VS Code and JetBrains. | MIT | [★ 27.8k](https://github.com/Kilo-Org/kilocode) | today |
@@ -79,8 +79,8 @@ Agents that read, write and run code in your repository.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #018 | [OpenHands](https://github.com/OpenHands/OpenHands) | Open platform for autonomous software-engineering agents. | MIT | [★ 92.5k](https://github.com/OpenHands/OpenHands) | today |
-| #019 | [SWE-agent](https://swe-agent.com) | Princeton/Stanford research agent that resolves GitHub issues. | MIT | [★ 20.7k](https://github.com/SWE-agent/SWE-agent) | 7d ago |
+| #018 | [OpenHands](https://github.com/OpenHands/OpenHands) | Open platform for autonomous software-engineering agents. | MIT | [★ 92.6k](https://github.com/OpenHands/OpenHands) | today |
+| #019 | [SWE-agent](https://swe-agent.com) | Princeton/Stanford research agent that resolves GitHub issues. | MIT | [★ 20.7k](https://github.com/SWE-agent/SWE-agent) | today |
 | #020 | [Devin](https://devin.ai) ☁️ | Cognition's autonomous software engineer. | Closed source | — | — |
 | #021 | [Jules](https://jules.google) ☁️ | Google's asynchronous coding agent that works on your GitHub repos. | Closed source | — | — |
 | #078 | [Tempo](https://www.tempo.new) ☁️ | Turns customer feedback, issues and product requirements into reviewed pull requests. | Closed source | — | — |
@@ -113,10 +113,10 @@ Describe an app in plain language and get a running one back.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #083 | [Onlook](https://www.onlook.com/) | Visual editor for React apps that writes design changes back to the code. | Apache-2.0 | [★ 27.1k](https://github.com/onlook-dev/onlook) | 12d ago |
+| #083 | [Onlook](https://www.onlook.com/) | Visual editor for React apps that writes design changes back to the code. | Apache-2.0 | [★ 27.1k](https://github.com/onlook-dev/onlook) | 13d ago |
 | #028 | [Dyad](https://www.dyad.sh) | Local, open-source alternative to hosted app builders. | Apache-2.0 + pro | [★ 22.2k](https://github.com/dyad-sh/dyad) | today |
-| #029 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | Community fork of Bolt.new that runs with any LLM provider. | MIT | [★ 20k](https://github.com/stackblitz-labs/bolt.diy) | 19d ago |
-| #082 | [Chef](https://github.com/get-convex/chef) | Convex's open-source app builder that generates the backend along with the UI. | Apache-2.0 | [★ 4.6k](https://github.com/convex/chef) | 5d ago |
+| #029 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | Community fork of Bolt.new that runs with any LLM provider. | MIT | [★ 20k](https://github.com/stackblitz-labs/bolt.diy) | 20d ago |
+| #082 | [Chef](https://github.com/get-convex/chef) | Convex's open-source app builder that generates the backend along with the UI. | Apache-2.0 | [★ 4.6k](https://github.com/convex/chef) | 6d ago |
 
 ## MCP servers
 
@@ -128,9 +128,9 @@ Model Context Protocol servers that give agents tools and data.
 | --- | --- | --- | --- | --- | --- |
 | #033 | [Context7](https://context7.com) | Up-to-date, version-specific library docs fed into the prompt. | MIT | [★ 64.1k](https://github.com/upstash/context7) | today |
 | #032 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Lets agents drive and debug a live Chrome via DevTools. | Apache-2.0 | [★ 54.7k](https://github.com/ChromeDevTools/chrome-devtools-mcp) | today |
-| #031 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation through Playwright's accessibility snapshots. | Apache-2.0 | [★ 39k](https://github.com/microsoft/playwright-mcp) | today |
+| #031 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation through Playwright's accessibility snapshots. | Apache-2.0 | [★ 39.1k](https://github.com/microsoft/playwright-mcp) | 2d ago |
 | #030 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | GitHub's official server for repos, issues, PRs and Actions. | MIT | [★ 34.2k](https://github.com/github/github-mcp-server) | today |
-| #087 | [Serena](https://oraios.github.io/serena/) | Gives coding agents semantic code search and editing through language servers. | GPL-3.0 / MIT | [★ 31k](https://github.com/oraios/serena) | 5d ago |
+| #087 | [Serena](https://oraios.github.io/serena/) | Gives coding agents semantic code search and editing through language servers. | GPL-3.0 / MIT | [★ 31.1k](https://github.com/oraios/serena) | 6d ago |
 | #088 | [Desktop Commander](https://desktopcommander.app/) | Gives MCP clients terminal control, file search and diff-based file editing. | MIT | [★ 10.2k](https://github.com/wonderwhy-er/DesktopCommanderMCP) | today |
 | #085 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | Adds Firecrawl web scraping, crawling and search to MCP clients. | MIT | [★ 7.8k](https://github.com/firecrawl/firecrawl-mcp-server) | today |
 | #086 | [Exa MCP](https://exa.ai/docs/get-started/exa-mcp) | Connects MCP clients to Exa's web search and page fetching. | MIT | [★ 5.2k](https://github.com/exa-labs/exa-mcp-server) | today |
@@ -140,11 +140,11 @@ Model Context Protocol servers that give agents tools and data.
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
 | #037 | [AWS MCP Servers](https://github.com/awslabs/mcp) | AWS Labs' collection of servers for AWS services. | Apache-2.0 | [★ 9.9k](https://github.com/awslabs/mcp) | today |
-| #035 | [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Notion's official server for pages and databases. | MIT | [★ 4.7k](https://github.com/makenotion/notion-mcp-server) | 4d ago |
-| #084 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare's MCP servers for Workers, DNS, observability and other Cloudflare APIs. | Apache-2.0 | [★ 4.4k](https://github.com/cloudflare/mcp-server-cloudflare) | 11d ago |
+| #035 | [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Notion's official server for pages and databases. | MIT | [★ 4.7k](https://github.com/makenotion/notion-mcp-server) | 5d ago |
+| #084 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare's MCP servers for Workers, DNS, observability and other Cloudflare APIs. | Apache-2.0 | [★ 4.4k](https://github.com/cloudflare/mcp-server-cloudflare) | 12d ago |
 | #091 | [Microsoft MCP](https://github.com/microsoft/mcp) | Catalog of Microsoft's official MCP servers, including Azure. | MIT | [★ 3.8k](https://github.com/microsoft/mcp) | today |
 | #089 | [Grafana MCP](https://github.com/grafana/mcp-grafana) | Grafana's MCP server for querying dashboards, data sources and alerts. | Apache-2.0 | [★ 3.6k](https://github.com/grafana/mcp-grafana) | today |
-| #034 | [Supabase MCP](https://github.com/supabase/mcp) | Manage Supabase projects, databases and edge functions. | Apache-2.0 | [★ 3k](https://github.com/supabase/mcp) | 2d ago |
+| #034 | [Supabase MCP](https://github.com/supabase/mcp) | Manage Supabase projects, databases and edge functions. | Apache-2.0 | [★ 3k](https://github.com/supabase/mcp) | today |
 | #036 | [Stripe](https://github.com/stripe/ai) | Stripe's agent toolkit and MCP server for payments APIs. | MIT | [★ 2k](https://github.com/stripe/ai) | today |
 | #090 | [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) | Connects agents to MongoDB databases and Atlas clusters. | Apache-2.0 | [★ 1.2k](https://github.com/mongodb-js/mongodb-mcp-server) | today |
 
@@ -152,12 +152,12 @@ Model Context Protocol servers that give agents tools and data.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #038 | [Reference servers](https://github.com/modelcontextprotocol/servers) | Official reference implementations (filesystem, fetch, git, memory...). | Apache-2.0 / MIT | [★ 91.7k](https://github.com/modelcontextprotocol/servers) | 4d ago |
+| #038 | [Reference servers](https://github.com/modelcontextprotocol/servers) | Official reference implementations (filesystem, fetch, git, memory...). | Apache-2.0 / MIT | [★ 91.8k](https://github.com/modelcontextprotocol/servers) | 5d ago |
 | #092 | [FastMCP](https://gofastmcp.com/getting-started/welcome) | Builds MCP servers and clients in Python with a decorator-based API. | Apache-2.0 | [★ 28.3k](https://github.com/PrefectHQ/fastmcp) | today |
 | #094 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | Official Python SDK for building MCP servers and clients. | MIT | [★ 24.7k](https://github.com/modelcontextprotocol/python-sdk) | today |
-| #093 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | Official TypeScript SDK for building MCP servers and clients. | Apache-2.0 / MIT | [★ 13.7k](https://github.com/modelcontextprotocol/typescript-sdk) | 2d ago |
-| #039 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Visual tool for testing and debugging MCP servers. | Apache-2.0 / MIT | [★ 11.2k](https://github.com/modelcontextprotocol/inspector) | 4d ago |
-| #095 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Official community-driven registry service for MCP servers. | Apache-2.0 / MIT | [★ 7.4k](https://github.com/modelcontextprotocol/registry) | 2d ago |
+| #093 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | Official TypeScript SDK for building MCP servers and clients. | Apache-2.0 / MIT | [★ 13.7k](https://github.com/modelcontextprotocol/typescript-sdk) | 3d ago |
+| #039 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Visual tool for testing and debugging MCP servers. | Apache-2.0 / MIT | [★ 11.2k](https://github.com/modelcontextprotocol/inspector) | 5d ago |
+| #095 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Official community-driven registry service for MCP servers. | Apache-2.0 / MIT | [★ 7.4k](https://github.com/modelcontextprotocol/registry) | today |
 
 ### Directories
 
@@ -175,16 +175,16 @@ Libraries and SDKs for building your own agents.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #064 | [AutoGen](https://microsoft.github.io/autogen/) | Microsoft's framework for building multi-agent conversational AI applications. | CC-BY-4.0 | [★ 61.7k](https://github.com/microsoft/autogen) | 5d ago |
-| #060 | [CrewAI](https://crewai.com/) | Orchestrates teams of role-playing autonomous agents in Python. | MIT | [★ 60.4k](https://github.com/crewAIInc/crewAI) | today |
-| #067 | [LlamaIndex](https://www.llamaindex.ai) | Builds agents and RAG pipelines over private documents and data. | MIT | [★ 52.8k](https://github.com/run-llama/llama_index) | 7d ago |
-| #059 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Builds stateful, long-running agents as graphs, from the LangChain team. | MIT | [★ 44.3k](https://github.com/langchain-ai/langgraph) | today |
+| #064 | [AutoGen](https://microsoft.github.io/autogen/) | Microsoft's framework for building multi-agent conversational AI applications. | CC-BY-4.0 | [★ 61.7k](https://github.com/microsoft/autogen) | 6d ago |
+| #060 | [CrewAI](https://crewai.com/) | Orchestrates teams of role-playing autonomous agents in Python. | MIT | [★ 60.5k](https://github.com/crewAIInc/crewAI) | today |
+| #067 | [LlamaIndex](https://www.llamaindex.ai) | Builds agents and RAG pipelines over private documents and data. | MIT | [★ 52.8k](https://github.com/run-llama/llama_index) | 8d ago |
+| #059 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Builds stateful, long-running agents as graphs, from the LangChain team. | MIT | [★ 44.4k](https://github.com/langchain-ai/langgraph) | today |
 | #068 | [DSPy](https://dspy.ai) | Programs language models with composable modules and optimizers instead of hand-written prompts. | MIT | [★ 38.9k](https://github.com/stanfordnlp/dspy) | today |
 | #061 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | OpenAI's lightweight Python framework for multi-agent workflows with handoffs and guardrails. | MIT | [★ 30.5k](https://github.com/openai/openai-agents-python) | today |
-| #066 | [smolagents](https://huggingface.co/docs/smolagents/index) | Hugging Face's minimal library for agents that act by writing code. | Apache-2.0 | [★ 30.2k](https://github.com/huggingface/smolagents) | 4d ago |
+| #066 | [smolagents](https://huggingface.co/docs/smolagents/index) | Hugging Face's minimal library for agents that act by writing code. | Apache-2.0 | [★ 30.2k](https://github.com/huggingface/smolagents) | 5d ago |
 | #065 | [Google ADK](https://adk.dev/) | Google's toolkit for building, evaluating and deploying agents in Python. | Apache-2.0 | [★ 22.1k](https://github.com/google/adk-python) | today |
 | #063 | [Pydantic AI](https://pydantic.dev/pydantic-ai) | Builds type-safe agents in Python, from the team behind Pydantic. | MIT | [★ 21k](https://github.com/pydantic/pydantic-ai) | today |
-| #062 | [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) | Builds agents in Python on the same agent harness that powers Claude Code. | MIT | [★ 8.4k](https://github.com/anthropics/claude-agent-sdk-python) | 2d ago |
+| #062 | [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) | Builds agents in Python on the same agent harness that powers Claude Code. | MIT | [★ 8.4k](https://github.com/anthropics/claude-agent-sdk-python) | today |
 
 ### TypeScript
 
@@ -208,9 +208,9 @@ Gateways, observability and sandboxes for running agents in production.
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
 | #043 | [LiteLLM](https://github.com/BerriAI/litellm) | Python SDK and proxy that calls 100+ LLM APIs in OpenAI format. | MIT + enterprise | [★ 62.6k](https://github.com/BerriAI/litellm) | today |
-| #106 | [magpie](https://usemagpie.ai) | Local gateway that lets Claude Code, Codex and other agents use any model, from the menu bar. | MIT | [★ 28.3k](https://github.com/yetone/magpie) | today |
+| #106 | [magpie](https://usemagpie.ai) | Local gateway that lets Claude Code, Codex and other agents use any model, from the menu bar. | MIT | [★ 29k](https://github.com/yetone/magpie) | today |
 | #044 | [Portkey Gateway](https://github.com/Portkey-AI/gateway) | Fast AI gateway with routing, retries and guardrails. | MIT | [★ 13.3k](https://github.com/Portkey-AI/gateway) | 5mo ago |
-| #045 | [omni](https://github.com/ergonlabs-io/omni) ¹ | One interception point for all coding agents. | MIT | [★ 0](https://github.com/ergonlabs-io/omni) | 1mo ago |
+| #045 | [omni](https://github.com/ergonlabs-io/omni) ¹ | One interception point for all coding agents. | MIT | [★ 0](https://github.com/ergonlabs-io/omni) | 2mo ago |
 | #096 | [OpenRouter](https://openrouter.ai) ☁️ | Routes requests to hundreds of models from many providers through one OpenAI-compatible API. | Closed source | — | — |
 
 ### Observability
@@ -220,14 +220,14 @@ Gateways, observability and sandboxes for running agents in production.
 | #046 | [Langfuse](https://langfuse.com) | Open-source LLM tracing, evals and prompt management. | MIT + enterprise | [★ 36.9k](https://github.com/langfuse/langfuse) | today |
 | #098 | [Opik](https://www.comet.com/docs/opik/) | Comet's open-source tracing, evaluation and monitoring for LLM apps. | Apache-2.0 | [★ 23.1k](https://github.com/comet-ml/opik) | today |
 | #097 | [Arize Phoenix](https://arize.com/phoenix/) | Traces, evaluates and debugs LLM apps and agents, built on OpenTelemetry. | Elastic-2.0 | [★ 12.1k](https://github.com/Arize-ai/phoenix) | today |
-| #047 | [Helicone](https://helicone.ai) | Open-source LLM observability and gateway. | Apache-2.0 | [★ 6.3k](https://github.com/Helicone/helicone) | 5d ago |
+| #047 | [Helicone](https://helicone.ai) | Open-source LLM observability and gateway. | Apache-2.0 | [★ 6.3k](https://github.com/Helicone/helicone) | 6d ago |
 
 ### Sandboxes and browsers
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #049 | [Browser Use](https://browser-use.com) | Makes websites accessible to AI agents. | MIT | [★ 119.8k](https://github.com/browser-use/browser-use) | today |
-| #099 | [Stagehand](https://www.stagehand.dev/) | Browser automation SDK that mixes code with natural-language actions. | MIT | [★ 25.9k](https://github.com/browserbase/stagehand) | 3d ago |
+| #049 | [Browser Use](https://browser-use.com) | Makes websites accessible to AI agents. | MIT | [★ 119.9k](https://github.com/browser-use/browser-use) | today |
+| #099 | [Stagehand](https://www.stagehand.dev/) | Browser automation SDK that mixes code with natural-language actions. | MIT | [★ 25.9k](https://github.com/browserbase/stagehand) | today |
 | #048 | [E2B](https://e2b.dev) | Secure cloud sandboxes for running agent-generated code. | Apache-2.0 | [★ 14.7k](https://github.com/e2b-dev/E2B) | today |
 | #100 | [Browserbase](https://www.browserbase.com) ☁️ | Runs headless browsers in the cloud for agents and automation. | Closed source | — | — |
 
@@ -235,21 +235,21 @@ Gateways, observability and sandboxes for running agents in production.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #101 | [Firecrawl](https://www.firecrawl.dev) | Turns websites into clean Markdown or structured data for LLMs through an API. | AGPL-3.0 | [★ 197.9k](https://github.com/firecrawl/firecrawl) | today |
+| #101 | [Firecrawl](https://www.firecrawl.dev) | Turns websites into clean Markdown or structured data for LLMs through an API. | AGPL-3.0 | [★ 198.2k](https://github.com/firecrawl/firecrawl) | today |
 | #102 | [Crawl4AI](https://crawl4ai.com) | Open-source crawler that turns web pages into clean Markdown or JSON for LLMs. | Apache-2.0 | [★ 86.8k](https://github.com/unclecode/crawl4ai) | today |
 
 ### Evals
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #103 | [promptfoo](https://www.promptfoo.dev) | Tests and red-teams prompts, agents and RAG pipelines from the CLI or CI. | MIT | [★ 26.7k](https://github.com/promptfoo/promptfoo) | today |
+| #103 | [promptfoo](https://www.promptfoo.dev) | Tests and red-teams prompts, agents and RAG pipelines from the CLI or CI. | MIT | [★ 26.8k](https://github.com/promptfoo/promptfoo) | today |
 
 ### Memory
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #104 | [Mem0](https://mem0.ai) | Adds a persistent memory layer so agents recall past interactions. | Apache-2.0 | [★ 68.3k](https://github.com/mem0ai/mem0) | 3d ago |
-| #105 | [Letta](https://www.letta.com) | Builds stateful agents with long-term memory, from the team behind MemGPT. | Apache-2.0 | [★ 25.3k](https://github.com/letta-ai/letta) | 15d ago |
+| #104 | [Mem0](https://mem0.ai) | Adds a persistent memory layer so agents recall past interactions. | Apache-2.0 | [★ 68.3k](https://github.com/mem0ai/mem0) | 4d ago |
+| #105 | [Letta](https://www.letta.com) | Builds stateful agents with long-term memory, from the team behind MemGPT. | Apache-2.0 | [★ 25.3k](https://github.com/letta-ai/letta) | 16d ago |
 
 ## Local models
 
@@ -259,19 +259,19 @@ Run open-weight models on your own hardware.
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
-| #050 | [Ollama](https://ollama.com) | Runs open-weight models locally behind a simple CLI and an OpenAI-compatible API. | MIT | [★ 185.7k](https://github.com/ollama/ollama) | today |
-| #051 | [llama.cpp](https://llama.app) | Runs LLM inference in plain C/C++ on CPUs and GPUs; the engine behind many local tools. | MIT | [★ 133.2k](https://github.com/ggml-org/llama.cpp) | today |
-| #052 | [vLLM](https://vllm.ai) | Serves LLMs with high throughput using PagedAttention and continuous batching. | Apache-2.0 | [★ 96.1k](https://github.com/vllm-project/vllm) | today |
-| #055 | [LocalAI](https://localai.io) | Serves LLM, vision, voice and image models on local hardware through an OpenAI-compatible API. | MIT | [★ 50.1k](https://github.com/mudler/LocalAI) | today |
+| #050 | [Ollama](https://ollama.com) | Runs open-weight models locally behind a simple CLI and an OpenAI-compatible API. | MIT | [★ 185.8k](https://github.com/ollama/ollama) | today |
+| #051 | [llama.cpp](https://llama.app) | Runs LLM inference in plain C/C++ on CPUs and GPUs; the engine behind many local tools. | MIT | [★ 133.3k](https://github.com/ggml-org/llama.cpp) | today |
+| #052 | [vLLM](https://vllm.ai) | Serves LLMs with high throughput using PagedAttention and continuous batching. | Apache-2.0 | [★ 96.2k](https://github.com/vllm-project/vllm) | today |
+| #055 | [LocalAI](https://localai.io) | Serves LLM, vision, voice and image models on local hardware through an OpenAI-compatible API. | MIT | [★ 50.2k](https://github.com/mudler/LocalAI) | today |
 | #053 | [SGLang](https://www.sglang.io/) | Serves LLMs and multimodal models with a fast runtime and a structured-generation frontend. | Apache-2.0 | [★ 38.4k](https://github.com/sgl-project/sglang) | today |
-| #054 | [MLX LM](https://github.com/ml-explore/mlx-lm) | Runs and fine-tunes LLMs on Apple silicon with Apple's MLX framework. | MIT | [★ 7.5k](https://github.com/ml-explore/mlx-lm) | 3d ago |
+| #054 | [MLX LM](https://github.com/ml-explore/mlx-lm) | Runs and fine-tunes LLMs on Apple silicon with Apple's MLX framework. | MIT | [★ 7.5k](https://github.com/ml-explore/mlx-lm) | 4d ago |
 
 ### Desktop and chat UIs
 
 | # | Tool | What it does | License | Stars | Last commit |
 | --- | --- | --- | --- | --- | --- |
 | #058 | [Open WebUI](https://openwebui.com) | Self-hosted chat interface for Ollama and OpenAI-compatible APIs. | Custom (Open WebUI License) | [★ 157.6k](https://github.com/open-webui/open-webui) | today |
-| #057 | [Jan](https://www.jan.ai/) | Runs an offline, open-source ChatGPT-style assistant on local models or cloud APIs. | Apache-2.0 | [★ 45.3k](https://github.com/janhq/jan) | today |
+| #057 | [Jan](https://www.jan.ai/) | Runs an offline, open-source ChatGPT-style assistant on local models or cloud APIs. | Apache-2.0 | [★ 45.4k](https://github.com/janhq/jan) | today |
 | #056 | [LM Studio](https://lmstudio.ai) | Desktop app for finding, downloading and chatting with local models, with a local API server. | Closed source | — | — |
 
 ---
